@@ -1,1 +1,1 @@
-puts "Hello".capitalize
+ "Hello".capitalize
