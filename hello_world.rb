@@ -1,1 +1,1 @@
-puts "Hello World!" #will output 'hello world'
+puts "Hello".capitalize
